@@ -18,7 +18,7 @@ A visually appealing and responsive landing page designed to grab the attention 
 🎨 CSS3 – Styling, responsiveness, and animations
 
 ### 🚀 Live Demo
-View the live demo (replace this with your actual demo link if available)
+https://open-books-library43.netlify.app/
 
 ### 📂 Installation & Usage
 
